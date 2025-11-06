@@ -2,9 +2,9 @@ import gzip
 import re
 import pandas as pd
 
-gtf = "annotation.gtf.gz"  
+gtf = "annotation.gtf.gz"  # URL for download (GTF): https://www.gencodegenes.org/human/ 
 chrs= list(map(str,list(range(1,23)))) # take only 1-22
-# Регулярка для пар вида key "value";
+ 
 attr_re = re.compile(r'(\S+)\s+"([^"]+)"')
 
 rows = []
