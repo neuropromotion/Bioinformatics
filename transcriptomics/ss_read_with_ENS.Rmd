@@ -30,6 +30,7 @@ seu <- CreateSeuratObject(
   counts = counts,
   project = as.character(sample_id)
 )
+seu[["RNA"]]@meta.data$gene_id <- features$feature_id
 seu[["RNA"]]@meta.data$gene_name <- features$feature_name # save HGNC: BEST practice
 print(seu)
 ```
