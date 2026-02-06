@@ -23,7 +23,7 @@ features <- fread(file.path(path, "features.tsv.gz"), header = FALSE)
 colnames(features) <- c("feature_id", "feature_name")
 
 #features$feature_name <- make.unique(features$feature_name)
-rownames(counts) <- features$feature_id
+rownames(counts) <- features$feature_name
 colnames(counts) <- barcodes
 
 seu <- CreateSeuratObject(
