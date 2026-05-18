@@ -1,8 +1,6 @@
 # Loss of tissue specificity and recurrent pan-cancer activation define a conserved oncogenic microRNA program
 
-Overview
-
-MicroRNAs are post-transcriptional regulators capable of coordinately modulating large gene networks and, consequently, complex biological programs. In cancer, aberrant miRNA expression contributes to key oncogenic processes, including epithelial-mesenchymal transition, angiogenesis, immune evasion, and metastatic progression. Oncogenic miRNAs that lose tissue specificity during malignant transformation may represent promising therapeutic targets due to their limited expression in normal tissues. 
+Overview MicroRNAs are post-transcriptional regulators capable of coordinately modulating large gene networks and, consequently, complex biological programs. In cancer, aberrant miRNA expression contributes to key oncogenic processes, including epithelial-mesenchymal transition, angiogenesis, immune evasion, and metastatic progression. Oncogenic miRNAs that lose tissue specificity during malignant transformation may represent promising therapeutic targets due to their limited expression in normal tissues. 
 ---
 
 ## Repository Structure
