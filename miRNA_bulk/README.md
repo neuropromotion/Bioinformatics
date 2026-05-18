@@ -13,16 +13,10 @@ Malignant transformation was associated with a widespread loss of tissue-specifi
 
 | File | Description |
 |------|-------------|
-| `load_data.R` | Data loading and processing workflow for the discovery and validation datasets |
-| `functions.R` | auxillary functions |
-| `cellchat.R` | **CellChat** pipeline for ligand–receptor interaction inference |
-| `GAM.R` | Processing workflow for generative additive models implementation |
-| `ESCAPE.R` | Workflow for functional enrichment analysis |
-| `Diffusion_maps.R` | Workflow for diffusion maps and time trajectory analysis |
-| `CNA.R` | InferCNA - copy number alteration inferring framework |
-| `for_deconvolution.Rmd` | Script for data preparation for bulk-deconvolution analysis |
-| `gse190504_CAF_rank_score.py` | Python script for CAF signature rank expression evaluation across bulk gse190504 data conditions |
-| `gse190504_cellanneal_deconvolution.py` | Python script for cellanneal bulk-deconvolution analysis within bulk gse190504 data |
+| `TCGA.ipynb` | Notebook with TCGA dataset processing: Tau specificity assessment, DE analysis (cancer-vs-normal) and finally binomial test implementation |
+| `GTEx.ipynb` | Notebook with Tau specificity assessment within GTEx dataset (normal tissues) |
+| `TCGA_GTEx.ipynb` | Integration specificity (Tau metric) and reccurent dysregulation |
+| `Interactive_MAP.html` | Interactive map with all integrated results | 
 
 ---
 
