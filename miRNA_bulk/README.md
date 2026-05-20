@@ -16,7 +16,7 @@ Malignant transformation was associated with a widespread loss of tissue-specifi
 | `TCGA.ipynb` | Notebook with TCGA dataset processing: Tau specificity assessment, DE analysis (cancer-vs-normal) and finally binomial test implementation |
 | `GTEx.ipynb` | Notebook with Tau specificity assessment within GTEx dataset (normal tissues) |
 | `TCGA_GTEx.ipynb` | Integration specificity (Tau metric) and reccurent dysregulation |
-| `Interactive_MAP.html` | Interactive map with all integrated results | 
+| `Interactive_2D_results_map.html` | Interactive map with all integrated results | 
 
 ---
 
