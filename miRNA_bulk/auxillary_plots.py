@@ -5,6 +5,7 @@ import plotly.graph_objects as go
 import matplotlib.pyplot as plt
 from matplotlib.colors import TwoSlopeNorm
 import seaborn as sns
+from scipy.stats import spearmanr, pearsonr
 from scipy.stats import mannwhitneyu
 from sklearn.metrics import roc_curve
 from constants import *
@@ -214,6 +215,54 @@ def plot_pie_single(
             facecolor=fig.get_facecolor()
         )
 
+    plt.show()
+
+
+def plot_correlation(df_in, save_path=None):
+    delta_df = df_in.copy()
+    x = delta_df["log2FC_median_tcga_gtex"]
+    y = delta_df[f"Delta_{SPECIFICITY_METRIC}"]
+
+    p, _ = pearsonr(x, y)
+    p_sp, _ = spearmanr(x, y)
+
+    plt.figure(figsize=(6,5))
+
+    sns.scatterplot(
+        data=delta_df,
+        x="log2FC_median_tcga_gtex",
+        y=f"Delta_{SPECIFICITY_METRIC}",
+        alpha=0.5,
+        edgecolor="black",
+        linewidth=0.3
+    )
+
+    # LOWESS trend
+    sns.regplot(
+        data=delta_df,
+        x="log2FC_median_tcga_gtex",
+        y=f"Delta_{SPECIFICITY_METRIC}",
+        scatter=False,
+        lowess=True
+    )
+
+    # zero lines
+    plt.axhline(0, linestyle="--", linewidth=1)
+    plt.axvline(0, linestyle="--", linewidth=1)
+
+    plt.xlabel("Median log2FC (TCGA - GTEx)")
+    plt.ylabel(f"Δ{SPECIFICITY_METRIC} (TCGA - GTEx)")
+
+    plt.text(
+        0.65, 0.95,
+        f"Pearson r = {p:.2f}\nSpearman r = {p_sp:.2f}",
+        transform=plt.gca().transAxes,
+        verticalalignment="top"
+    )
+
+    plt.tight_layout()
+    if save_path:
+        plt.savefig(save_path)
     plt.show()
 
 
