@@ -8,7 +8,6 @@ from scipy.stats import binomtest, mannwhitneyu, false_discovery_control
 from zarr.core.sync import P
 import auxillary_plots
 import pathlib
-import specificity_metrics
 from constants import *
 
 
