@@ -1,0 +1,211 @@
+,term,description,count,miRNAs
+0,GO:0019222,Regulation of metabolic process,2,"mir-512-3p, mir-935"
+1,GO:0036211,Protein modification process,2,"mir-512-3p, mir-935"
+2,GO:0009056,Catabolic process,2,"mir-512-3p, mir-935"
+3,GO:0009057,Macromolecule catabolic process,2,"mir-512-3p, mir-935"
+4,GO:0044265,Cellular macromolecule catabolic process,2,"mir-512-3p, mir-935"
+5,GO:0044248,Cellular catabolic process,2,"mir-512-3p, mir-935"
+6,GO:0044238,Primary metabolic process,2,"mir-512-3p, mir-935"
+7,GO:0043412,Macromolecule modification,2,"mir-512-3p, mir-935"
+8,GO:0043170,Macromolecule metabolic process,2,"mir-512-3p, mir-935"
+9,HSA-74160,Gene expression (Transcription),2,"mir-512-3p, mir-935"
+10,HSA-73857,RNA Polymerase II Transcription,2,"mir-512-3p, mir-935"
+11,GO:0071704,Organic substance metabolic process,2,"mir-512-3p, mir-935"
+12,GO:0008152,Metabolic process,2,"mir-512-3p, mir-935"
+13,GO:0071705,Nitrogen compound transport,2,"mir-512-3p, mir-935"
+14,GO:0080090,Regulation of primary metabolic process,2,"mir-512-3p, mir-935"
+15,GO:0015031,Protein transport,2,"mir-512-3p, mir-935"
+16,HSA-212436,Generic Transcription Pathway,2,"mir-512-3p, mir-935"
+17,GO:1901564,Organonitrogen compound metabolic process,2,"mir-512-3p, mir-935"
+18,GO:0019219,Regulation of nucleobase-containing compound metabolic process,2,"mir-512-3p, mir-935"
+19,GO:0019538,Protein metabolic process,2,"mir-512-3p, mir-935"
+20,HSA-168256,Immune System,2,"mir-512-3p, mir-935"
+21,GO:0031323,Regulation of cellular metabolic process,2,"mir-512-3p, mir-935"
+22,GO:0045184,Establishment of protein localization,2,"mir-512-3p, mir-935"
+23,GO:0044237,Cellular metabolic process,2,"mir-512-3p, mir-935"
+24,GO:0008104,Protein localization,2,"mir-512-3p, mir-935"
+25,GO:0046907,Intracellular transport,2,"mir-512-3p, mir-935"
+26,GO:0051252,Regulation of RNA metabolic process,2,"mir-512-3p, mir-935"
+27,GO:0006807,Nitrogen compound metabolic process,2,"mir-512-3p, mir-935"
+28,hsa05214,Glioma,2,"mir-105-5p, mir-522-3p"
+29,hsa05215,Prostate cancer,2,"mir-105-5p, mir-522-3p"
+30,GO:0051171,Regulation of nitrogen compound metabolic process,2,"mir-512-3p, mir-935"
+31,GO:1901800,Positive regulation of proteasomal protein catabolic process,1,mir-935
+32,GO:0051246,Regulation of protein metabolic process,1,mir-935
+33,GO:1901701,Cellular response to oxygen-containing compound,1,mir-935
+34,GO:0072594,Establishment of protein localization to organelle,1,mir-935
+35,GO:1901700,Response to oxygen-containing compound,1,mir-935
+36,GO:1901575,Organic substance catabolic process,1,mir-935
+37,GO:1901565,Organonitrogen compound catabolic process,1,mir-935
+38,GO:2000112,Regulation of cellular macromolecule biosynthetic process,1,mir-935
+39,GO:2000113,Negative regulation of cellular macromolecule biosynthetic process,1,mir-935
+40,GO:0051248,Negative regulation of protein metabolic process,1,mir-935
+41,GO:0120032,Regulation of plasma membrane bounded cell projection assembly,1,mir-935
+42,GO:0051239,Regulation of multicellular organismal process,1,mir-935
+43,GO:0090304,Nucleic acid metabolic process,1,mir-935
+44,GO:0051253,Negative regulation of RNA metabolic process,1,mir-935
+45,GO:0071840,Cellular component organization or biogenesis,1,mir-935
+46,GO:0072359,Circulatory system development,1,mir-935
+47,GO:0051649,Establishment of localization in cell,1,mir-935
+48,GO:0065009,Regulation of molecular function,1,mir-935
+49,GO:0065007,Biological regulation,1,mir-935
+50,GO:0060255,Regulation of macromolecule metabolic process,1,mir-935
+51,GO:0070887,Cellular response to chemical stimulus,1,mir-935
+52,GO:0051668,Localization within membrane,1,mir-935
+53,HSA-1280215,Cytokine Signaling in Immune system,1,mir-935
+54,GO:0070936,Protein K48-linked ubiquitination,1,mir-935
+55,GO:0051641,Cellular localization,1,mir-935
+56,GO:0070647,Protein modification by small protein conjugation or removal,1,mir-935
+57,GO:0071310,Cellular response to organic substance,1,mir-935
+58,GO:0071345,Cellular response to cytokine stimulus,1,mir-935
+59,GO:0051603,Proteolysis involved in protein catabolic process,1,mir-935
+60,GO:0051348,Negative regulation of transferase activity,1,mir-935
+61,GO:0071702,Organic substance transport,1,mir-935
+62,GO:0051338,Regulation of transferase activity,1,mir-935
+63,GO:0051254,Positive regulation of RNA metabolic process,1,mir-935
+64,HSA-1169408,ISG15 antiviral mechanism,1,mir-935
+65,GO:0000122,Negative regulation of transcription by RNA polymerase II,1,mir-935
+66,HSA-162582,Signal Transduction,1,mir-935
+67,HSA-9725370,Signaling by ALK fusions and activated point mutants,1,mir-935
+68,hsa01522,Endocrine resistance,1,mir-522-3p
+69,hsa04068,FoxO signaling pathway,1,mir-105-5p
+70,hsa04150,mTOR signaling pathway,1,mir-105-5p
+71,hsa04151,PI3K-Akt signaling pathway,1,mir-105-5p
+72,hsa04152,AMPK signaling pathway,1,mir-105-5p
+73,hsa04510,Focal adhesion,1,mir-105-5p
+74,hsa04540,Gap junction,1,mir-105-5p
+75,hsa04550,Signaling pathways regulating pluripotency of stem cells,1,mir-105-5p
+76,hsa04931,Insulin resistance,1,mir-105-5p
+77,hsa04935,"Growth hormone synthesis, secretion and action",1,mir-105-5p
+78,hsa05163,Human cytomegalovirus infection,1,mir-105-5p
+79,hsa05165,Human papillomavirus infection,1,mir-105-5p
+80,hsa05168,Herpes simplex virus 1 infection,1,mir-512-3p
+81,hsa05200,Pathways in cancer,1,mir-105-5p
+82,hsa05205,Proteoglycans in cancer,1,mir-935
+83,hsa05206,MicroRNAs in cancer,1,mir-105-5p
+84,hsa05210,Colorectal cancer,1,mir-105-5p
+85,hsa05213,Endometrial cancer,1,mir-105-5p
+86,hsa05218,Melanoma,1,mir-105-5p
+87,hsa05224,Breast cancer,1,mir-105-5p
+88,hsa05225,Hepatocellular carcinoma,1,mir-105-5p
+89,hsa01521,EGFR tyrosine kinase inhibitor resistance,1,mir-105-5p
+90,HSA-9716542,"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",1,mir-935
+91,HSA-1643685,Disease,1,mir-935
+92,HSA-9694516,SARS-CoV-2 Infection,1,mir-935
+93,HSA-166520,Signaling by NTRKs,1,mir-935
+94,HSA-168276,NS1 Mediated Effects on Host Pathways,1,mir-935
+95,GO:0051179,Localization,1,mir-935
+96,HSA-187037,Signaling by NTRK1 (TRKA),1,mir-935
+97,HSA-194315,Signaling by Rho GTPases,1,mir-935
+98,HSA-199418,Negative regulation of the PI3K/AKT network,1,mir-512-3p
+99,HSA-199991,Membrane Trafficking,1,mir-935
+100,HSA-2990846,SUMOylation,1,mir-935
+101,HSA-3301854,Nuclear Pore Complex (NPC) Disassembly,1,mir-935
+102,HSA-3700989,Transcriptional Regulation by TP53,1,mir-935
+103,HSA-5653656,Vesicle-mediated transport,1,mir-935
+104,HSA-5663202,Diseases of signal transduction by growth factor receptors and second messengers,1,mir-935
+105,HSA-5663205,Infectious disease,1,mir-935
+106,HSA-6811558,"PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling",1,mir-512-3p
+107,HSA-68875,Mitotic Prophase,1,mir-935
+108,HSA-70171,Glycolysis,1,mir-935
+109,HSA-70326,Glucose metabolism,1,mir-935
+110,HSA-9006925,Intracellular signaling by second messengers,1,mir-512-3p
+111,HSA-9006934,Signaling by Receptor Tyrosine Kinases,1,mir-935
+112,HSA-9012999,RHO GTPase cycle,1,mir-935
+113,HSA-9679506,SARS-CoV Infections,1,mir-935
+114,GO:0051234,Establishment of localization,1,mir-935
+115,GO:0048523,Negative regulation of cellular process,1,mir-935
+116,GO:0051173,Positive regulation of nitrogen compound metabolic process,1,mir-935
+117,GO:0010558,Negative regulation of macromolecule biosynthetic process,1,mir-935
+118,GO:0009892,Negative regulation of metabolic process,1,mir-935
+119,GO:0009893,Positive regulation of metabolic process,1,mir-935
+120,GO:0009894,Regulation of catabolic process,1,mir-935
+121,GO:0009896,Positive regulation of catabolic process,1,mir-935
+122,GO:0009987,Cellular process,1,mir-935
+123,GO:0010033,Response to organic substance,1,mir-935
+124,GO:0010468,Regulation of gene expression,1,mir-935
+125,GO:0010556,Regulation of macromolecule biosynthetic process,1,mir-935
+126,GO:0010557,Positive regulation of macromolecule biosynthetic process,1,mir-935
+127,GO:0010604,Positive regulation of macromolecule metabolic process,1,mir-935
+128,GO:0009890,Negative regulation of biosynthetic process,1,mir-935
+129,GO:0010605,Negative regulation of macromolecule metabolic process,1,mir-935
+130,GO:0010608,Post-transcriptional regulation of gene expression,1,mir-935
+131,GO:0010629,Negative regulation of gene expression,1,mir-935
+132,GO:0010632,Regulation of epithelial cell migration,1,mir-935
+133,GO:0010633,Negative regulation of epithelial cell migration,1,mir-935
+134,GO:0010646,Regulation of cell communication,1,mir-935
+135,GO:0012501,Programmed cell death,1,mir-935
+136,GO:0016032,Viral process,1,mir-935
+137,GO:0016043,Cellular component organization,1,mir-935
+138,GO:0009891,Positive regulation of biosynthetic process,1,mir-935
+139,GO:0009889,Regulation of biosynthetic process,1,mir-935
+140,GO:0051172,Negative regulation of nitrogen compound metabolic process,1,mir-935
+141,GO:0006793,Phosphorus metabolic process,1,mir-512-3p
+142,GO:0001568,Blood vessel development,1,mir-935
+143,GO:0006139,Nucleobase-containing compound metabolic process,1,mir-935
+144,GO:0006355,"Regulation of transcription, DNA-templated",1,mir-935
+145,GO:0006417,Regulation of translation,1,mir-935
+146,GO:0006508,Proteolysis,1,mir-935
+147,GO:0006511,Ubiquitin-dependent protein catabolic process,1,mir-935
+148,GO:0006538,Glutamate catabolic process,1,mir-935
+149,GO:0006606,Protein import into nucleus,1,mir-935
+150,GO:0006607,NLS-bearing protein import into nucleus,1,mir-935
+151,GO:0006796,Phosphate-containing compound metabolic process,1,mir-512-3p
+152,GO:0008219,Cell death,1,mir-935
+153,GO:0006810,Transport,1,mir-935
+154,GO:0006886,Intracellular protein transport,1,mir-935
+155,GO:0006914,Autophagy,1,mir-935
+156,GO:0006915,Apoptotic process,1,mir-935
+157,GO:0006950,Response to stress,1,mir-935
+158,GO:0006996,Organelle organization,1,mir-935
+159,GO:0007032,Endosome organization,1,mir-935
+160,GO:0007264,Small GTPase mediated signal transduction,1,mir-935
+161,GO:0007265,Ras protein signal transduction,1,mir-935
+162,GO:0016197,Endosomal transport,1,mir-935
+163,GO:0016310,Phosphorylation,1,mir-512-3p
+164,GO:0016567,Protein ubiquitination,1,mir-935
+165,GO:0046483,Heterocycle metabolic process,1,mir-935
+166,GO:0035556,Intracellular signal transduction,1,mir-935
+167,GO:0042326,Negative regulation of phosphorylation,1,mir-935
+168,GO:0043161,Proteasome-mediated ubiquitin-dependent protein catabolic process,1,mir-935
+169,GO:0044087,Regulation of cellular component biogenesis,1,mir-935
+170,GO:0044260,Cellular macromolecule metabolic process,1,mir-935
+171,GO:0045892,"Negative regulation of transcription, DNA-templated",1,mir-935
+172,GO:0045934,Negative regulation of nucleobase-containing compound metabolic process,1,mir-935
+173,GO:0045935,Positive regulation of nucleobase-containing compound metabolic process,1,mir-935
+174,GO:0045936,Negative regulation of phosphate metabolic process,1,mir-935
+175,GO:0048518,Positive regulation of biological process,1,mir-935
+176,GO:0019058,Viral life cycle,1,mir-935
+177,GO:0048519,Negative regulation of biological process,1,mir-935
+178,GO:0048522,Positive regulation of cellular process,1,mir-935
+179,GO:0000209,Protein polyubiquitination,1,mir-935
+180,GO:0048731,System development,1,mir-935
+181,GO:0050789,Regulation of biological process,1,mir-935
+182,GO:0050790,Regulation of catalytic activity,1,mir-935
+183,GO:0050793,Regulation of developmental process,1,mir-935
+184,GO:0050794,Regulation of cellular process,1,mir-935
+185,GO:0051128,Regulation of cellular component organization,1,mir-935
+186,GO:0035295,Tube development,1,mir-935
+187,GO:0034976,Response to endoplasmic reticulum stress,1,mir-935
+188,GO:0034641,Cellular nitrogen compound metabolic process,1,mir-935
+189,GO:0034504,Protein localization to nucleus,1,mir-935
+190,GO:0023051,Regulation of signaling,1,mir-935
+191,GO:0030163,Protein catabolic process,1,mir-935
+192,GO:0030334,Regulation of cell migration,1,mir-935
+193,GO:0030336,Negative regulation of cell migration,1,mir-935
+194,GO:0031324,Negative regulation of cellular metabolic process,1,mir-935
+195,GO:0031325,Positive regulation of cellular metabolic process,1,mir-935
+196,GO:0031326,Regulation of cellular biosynthetic process,1,mir-935
+197,GO:0031327,Negative regulation of cellular biosynthetic process,1,mir-935
+198,GO:0031328,Positive regulation of cellular biosynthetic process,1,mir-935
+199,GO:0031329,Regulation of cellular catabolic process,1,mir-935
+200,GO:0031331,Positive regulation of cellular catabolic process,1,mir-935
+201,GO:0031399,Regulation of protein modification process,1,mir-935
+202,GO:0032446,Protein modification by small protein conjugation,1,mir-935
+203,GO:0033036,Macromolecule localization,1,mir-935
+204,GO:0033043,Regulation of organelle organization,1,mir-935
+205,GO:0033365,Protein localization to organelle,1,mir-935
+206,GO:0033554,Cellular response to stress,1,mir-935
+207,GO:0034097,Response to cytokine,1,mir-935
+208,GO:0034248,Regulation of cellular amide metabolic process,1,mir-935
+209,hsa05230,Central carbon metabolism in cancer,1,mir-105-5p

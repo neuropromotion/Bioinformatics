@@ -1,0 +1,232 @@
+,p_value,fdr,description,source,fold_enrichment
+17,2.01e-18,3.15e-14,Cellular metabolic process,GO: Biological Process,0.9271936893714965
+18,1.18e-17,9.22e-14,Regulation of cellular metabolic process,GO: Biological Process,0.9444990718157441
+19,3.26e-16,1.71e-12,Metabolic process,GO: Biological Process,0.887583395472689
+20,5.15e-15,2.02e-11,Regulation of metabolic process,GO: Biological Process,0.9022795772616979
+21,3.46e-14,1.09e-10,Primary metabolic process,GO: Biological Process,0.890318146304405
+22,1.19e-13,3.11e-10,Organic substance metabolic process,GO: Biological Process,0.8809330064464921
+23,2.02e-13,4.53e-10,Regulation of primary metabolic process,GO: Biological Process,0.9095947155425058
+24,5.6e-13,1.1e-09,Nitrogen compound metabolic process,GO: Biological Process,0.8916313136511637
+25,1.11e-12,1.93e-09,Macromolecule metabolic process,GO: Biological Process,0.9065340296799448
+26,2.57e-12,4.02e-09,Nitrogen compound transport,GO: Biological Process,1.1177166264888763
+28,3.54e-12,5.04e-09,Macromolecule modification,GO: Biological Process,0.9994602136739078
+27,3.63e-12,5.04e-09,Macromolecule localization,GO: Biological Process,1.0348077365903594
+29,6.47e-12,7.81e-09,Protein localization,GO: Biological Process,1.067085875780185
+30,1.15e-11,1.2e-08,Regulation of nitrogen compound metabolic process,GO: Biological Process,0.899428419598205
+31,1.25e-11,1.22e-08,Protein modification process,GO: Biological Process,1.0052576777179691
+32,1.34e-11,1.24e-08,Regulation of biosynthetic process,GO: Biological Process,0.937818896789035
+33,1.49e-11,1.3e-08,Cellular macromolecule catabolic process,GO: Biological Process,1.2857847896874146
+34,2.49e-11,2.06e-08,Protein transport,GO: Biological Process,1.1654966232714368
+35,2.62e-11,2.06e-08,Establishment of protein localization,GO: Biological Process,1.1467269520942998
+36,3.81e-11,2.85e-08,Regulation of macromolecule metabolic process,GO: Biological Process,0.8853257420695392
+37,5.9e-11,4.2e-08,Regulation of cellular biosynthetic process,GO: Biological Process,0.9329923268451522
+38,7.82e-11,5.33e-08,Organonitrogen compound metabolic process,GO: Biological Process,0.9088502578244271
+39,1.01e-10,6.58e-08,Protein metabolic process,GO: Biological Process,0.9379614768697665
+40,1.71e-10,1.07e-07,Organic substance transport,GO: Biological Process,1.0408185690159943
+41,2.34e-10,1.41e-07,Macromolecule catabolic process,GO: Biological Process,1.1851554733836076
+42,4.33e-10,2.51e-07,Intracellular transport,GO: Biological Process,1.1029461051948755
+43,6.89e-10,3.86e-07,Regulation of nucleobase-containing compound metabolic process,GO: Biological Process,0.9232201461990422
+44,8.79e-10,4.75e-07,Ubiquitin-dependent protein catabolic process,GO: Biological Process,1.3248862605684661
+46,1.05e-09,5.34e-07,Modification-dependent macromolecule catabolic process,GO: Biological Process,1.3088551173202778
+45,1.02e-09,5.34e-07,Regulation of macromolecule biosynthetic process,GO: Biological Process,0.9240824643244332
+47,1.53e-09,7.51e-07,Modification-dependent protein catabolic process,GO: Biological Process,1.3089875642339588
+48,1.71e-09,8.11e-07,Proteolysis involved in protein catabolic process,GO: Biological Process,1.2762669634997137
+49,2.18e-09,1.01e-06,Regulation of gene expression,GO: Biological Process,0.8964152478806967
+50,2.47e-09,1.1e-06,Cellular localization,GO: Biological Process,0.9710492887145935
+51,2.67e-09,1.16e-06,Cellular catabolic process,GO: Biological Process,1.0515304130553604
+184,1.25e-09,2.85e-06,Gene expression (Transcription),Reactome,1.0764716132755143
+52,7.1e-09,3.01e-06,Cellular macromolecule metabolic process,GO: Biological Process,0.9726180111990904
+53,1.45e-08,5.97e-06,Cellular response to stress,GO: Biological Process,1.0405577937161035
+54,1.64e-08,6.61e-06,Cellular process,GO: Biological Process,0.7860154602951511
+55,2.02e-08,7.91e-06,Protein catabolic process,GO: Biological Process,1.1936809184960417
+56,2.09e-08,7.98e-06,Regulation of cellular catabolic process,GO: Biological Process,1.1818575333534624
+57,2.5e-08,9.35e-06,Regulation of cellular process,GO: Biological Process,0.8117712411739116
+58,3.21e-08,1.17e-05,Regulation of RNA metabolic process,GO: Biological Process,0.9118904509710778
+59,4.56e-08,1.62e-05,Regulation of catabolic process,GO: Biological Process,1.1178100665469826
+185,1.85e-08,2.11e-05,Immune System,Reactome,1.0002922463803883
+186,3e-08,2.28e-05,Generic Transcription Pathway,Reactome,1.080471617084407
+60,7.06e-08,2.46e-05,Catabolic process,GO: Biological Process,0.9886291862149021
+187,5.37e-08,3.07e-05,Diseases of signal transduction by growth factor receptors and second messengers,Reactome,1.3447564104659335
+188,7.31e-08,3.34e-05,RNA Polymerase II Transcription,Reactome,1.052013848774619
+61,1.75e-07,5.98e-05,Localization,GO: Biological Process,0.8832455218971008
+62,1.93e-07,6.32e-05,Positive regulation of biological process,GO: Biological Process,0.8535487046169282
+63,1.89e-07,6.32e-05,Positive regulation of cellular process,GO: Biological Process,0.86294958288615
+64,2.25e-07,7.2e-05,Phosphate-containing compound metabolic process,GO: Biological Process,0.9852652836739897
+65,2.33e-07,7.29e-05,Negative regulation of cellular metabolic process,GO: Biological Process,0.9590846686182071
+66,2.51e-07,7.73e-05,Negative regulation of cellular process,GO: Biological Process,0.8766691575183756
+67,2.73e-07,8.22e-05,Proteasome-mediated ubiquitin-dependent protein catabolic process,GO: Biological Process,1.3811710049596886
+68,3.56e-07,0.00011,Response to stress,GO: Biological Process,0.9090882075592128
+70,4.33e-07,0.00012,Biological regulation,GO: Biological Process,0.7958188489408248
+69,4e-07,0.00012,Phosphorus metabolic process,GO: Biological Process,0.9777927291832468
+71,5.87e-07,0.00016,Negative regulation of biological process,GO: Biological Process,0.8618628461275655
+72,6.11e-07,0.00017,Positive regulation of cellular metabolic process,GO: Biological Process,0.9134044739803152
+74,6.62e-07,0.00018,Positive regulation of metabolic process,GO: Biological Process,0.8910309865350355
+73,6.65e-07,0.00018,Protein polyubiquitination,GO: Biological Process,1.5241524916607083
+75,9.14e-07,0.00024,Regulation of biological process,GO: Biological Process,0.7987325343614872
+76,9.75e-07,0.00025,Organic substance catabolic process,GO: Biological Process,0.9856488347258936
+78,1.26e-06,0.00032,Post-transcriptional regulation of gene expression,GO: Biological Process,1.2021730904373211
+77,1.29e-06,0.00032,Proteasomal protein catabolic process,GO: Biological Process,1.3092449441711564
+79,1.41e-06,0.00034,Transport,GO: Biological Process,0.8877341579319187
+80,1.4e-06,0.00034,Establishment of localization in cell,GO: Biological Process,0.9760239764237704
+81,1.48e-06,0.00035,Intracellular protein transport,GO: Biological Process,1.1440885926563082
+189,1.15e-06,0.00044,Disease,Reactome,0.9825045645113475
+190,1.44e-06,0.00047,Membrane Trafficking,Reactome,1.1650452740127393
+191,1.48e-06,0.00047,Vesicle-mediated transport,Reactome,1.149826214126987
+82,2.17e-06,0.00051,Negative regulation of metabolic process,GO: Biological Process,0.9084160620787267
+192,2.51e-06,0.00064,Intracellular signaling by second messengers,Reactome,1.3619390131316054
+83,2.88e-06,0.00066,Protein modification by small protein conjugation or removal,GO: Biological Process,1.0742256218320185
+193,3.28e-06,0.00075,Adaptive Immune System,Reactome,1.1064856105036556
+84,3.55e-06,0.00081,Protein localization to organelle,GO: Biological Process,1.1178692271527964
+85,3.82e-06,0.00086,Phosphorylation,GO: Biological Process,1.0569831036695285
+86,3.94e-06,0.00087,Regulation of cellular amide metabolic process,GO: Biological Process,1.1913007239863374
+87,4.15e-06,0.0009,Regulation of cellular macromolecule biosynthetic process,GO: Biological Process,1.1791258635952944
+88,4.35e-06,0.00093,Regulation of intracellular signal transduction,GO: Biological Process,0.9658246535765266
+89,4.9e-06,0.001,Regulation of RNA biosynthetic process,GO: Biological Process,0.8872522434034521
+90,5.4e-06,0.0011,"Regulation of transcription, DNA-templated",GO: Biological Process,0.8868053327050642
+91,5.1e-06,0.0011,Establishment of localization,GO: Biological Process,0.8752770625510449
+194,5.99e-06,0.0012,Signal Transduction,Reactome,0.9167753055815318
+92,6.82e-06,0.0014,Response to organic substance,GO: Biological Process,0.9095192648058483
+93,8.61e-06,0.0017,Organonitrogen compound catabolic process,GO: Biological Process,1.0203529614553362
+94,1.03e-05,0.002,Regulation of translation,GO: Biological Process,1.199536745940748
+95,1.11e-05,0.0021,Cell death,GO: Biological Process,1.0157896655633176
+197,1.41e-05,0.0026,Post-translational protein modification,Reactome,0.9788512565553702
+196,1.38e-05,0.0026,Negative regulation of the PI3K/AKT network,Reactome,1.751839252731671
+195,1.48e-05,0.0026,PIP3 activates AKT signaling,Reactome,1.3513148648148834
+96,1.39e-05,0.0027,Protein ubiquitination,GO: Biological Process,1.0999354962359067
+97,1.49e-05,0.0028,Intracellular signal transduction,GO: Biological Process,0.9677572572558671
+98,1.69e-05,0.0031,Regulation of protein metabolic process,GO: Biological Process,0.9039987070857809
+99,1.87e-05,0.0034,Positive regulation of nitrogen compound metabolic process,GO: Biological Process,0.8852388497071618
+100,2.07e-05,0.0038,Proteolysis,GO: Biological Process,0.990081606960007
+101,2.49e-05,0.0044,Protein modification by small protein conjugation,GO: Biological Process,1.0696669009135629
+102,2.46e-05,0.0044,Establishment of protein localization to organelle,GO: Biological Process,1.2595903126671633
+103,2.62e-05,0.0045,Positive regulation of macromolecule metabolic process,GO: Biological Process,0.8729053782437609
+104,2.55e-05,0.0045,Negative regulation of gene expression,GO: Biological Process,1.037247601574952
+105,2.54e-05,0.0045,Regulation of signaling,GO: Biological Process,0.8772614443731801
+200,3.93e-05,0.006,Signaling by ALK fusions and activated point mutants,Reactome,2.2188256422269075
+201,4.92e-05,0.006,Class I MHC mediated antigen processing & presentation,Reactome,1.205370359294867
+199,4.13e-05,0.006,"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",Reactome,1.0751993822419061
+198,4.02e-05,0.006,"PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling",Reactome,1.7200904281414497
+106,3.58e-05,0.0061,Cellular component organization or biogenesis,GO: Biological Process,0.835132597908577
+107,3.72e-05,0.0063,Response to endoplasmic reticulum stress,GO: Biological Process,1.3782761739393499
+110,4.06e-05,0.0068,Regulation of epithelial cell migration,GO: Biological Process,1.3649126790991417
+108,4.06e-05,0.0068,Apoptotic process,GO: Biological Process,1.005852797090208
+109,4.06e-05,0.0068,Negative regulation of macromolecule metabolic process,GO: Biological Process,0.890885758807174
+111,4.28e-05,0.0069,Regulation of transcription by RNA polymerase II,GO: Biological Process,0.8964386862825344
+112,4.26e-05,0.0069,Positive regulation of cellular catabolic process,GO: Biological Process,1.1856783829817645
+113,4.63e-05,0.0073,Regulation of cell communication,GO: Biological Process,0.8726355289354264
+114,5.02e-05,0.0079,Cellular component organization,GO: Biological Process,0.8356533083883658
+115,5.38e-05,0.0083,Positive regulation of molecular function,GO: Biological Process,0.9453761921019386
+116,5.4e-05,0.0083,Cellular response to organic substance,GO: Biological Process,0.9185499525415093
+117,7.31e-05,0.0111,Programmed cell death,GO: Biological Process,0.9899814071928491
+118,7.8e-05,0.0118,Regulation of cellular component organization,GO: Biological Process,0.8987069868470121
+119,8.13e-05,0.0121,Regulation of molecular function,GO: Biological Process,0.8747091940577978
+120,8.29e-05,0.0123,Positive regulation of catabolic process,GO: Biological Process,1.117028927436887
+121,8.55e-05,0.0125,Organelle organization,GO: Biological Process,0.8647331509312833
+122,9.56e-05,0.0139,Response to cytokine,GO: Biological Process,1.0302204717802415
+203,0.00012,0.014,SARS-CoV-2 activates/modulates innate and adaptive immune responses,Reactome,1.5670603157191092
+202,0.00013,0.014,Signaling by Rho GTPases,Reactome,1.0542867182009836
+204,0.00014,0.0145,Signaling by Receptor Tyrosine Kinases,Reactome,1.099876851775668
+123,0.0001,0.0146,Regulation of organelle organization,GO: Biological Process,0.9718407672274813
+124,0.00011,0.0152,Autophagy,GO: Biological Process,1.237881202034469
+125,0.00011,0.0157,Regulation of signal transduction,GO: Biological Process,0.8746502225030878
+206,0.00017,0.016,Downstream signal transduction,Reactome,2.6945258923595126
+205,0.00016,0.016,Cytokine Signaling in Immune system,Reactome,1.0404075895994378
+207,0.00017,0.016,RHO GTPase cycle,Reactome,1.1254196488800754
+208,0.0002,0.0175,SARS-CoV-2 Infection,Reactome,1.2226182110229897
+126,0.00013,0.0176,Peptidyl-serine modification,GO: Biological Process,1.3388687845213154
+209,0.00021,0.0179,Toll Like Receptor 9 (TLR9) Cascade,Reactome,1.6184595651195
+127,0.00013,0.0184,Protein K48-linked ubiquitination,GO: Biological Process,1.9535312719606461
+130,0.00014,0.0186,Import into nucleus,GO: Biological Process,1.5759580009094292
+128,0.00014,0.0186,Regulation of anatomical structure morphogenesis,GO: Biological Process,1.002246478658071
+129,0.00014,0.0186,Positive regulation of catalytic activity,GO: Biological Process,0.9666507945218089
+210,0.00023,0.0189,SARS-CoV-2-host interactions,Reactome,1.3350766481741103
+131,0.00014,0.0191,Ubiquitin-dependent ERAD pathway,GO: Biological Process,1.778825223248719
+132,0.00015,0.0196,Regulation of macroautophagy,GO: Biological Process,1.4415995969185482
+136,0.00016,0.0199,Positive regulation of signaling,GO: Biological Process,0.9234596197254096
+134,0.00015,0.0199,Protein import into nucleus,GO: Biological Process,1.585474655504293
+133,0.00015,0.0199,Blood vessel development,GO: Biological Process,1.1037774051474016
+135,0.00015,0.0199,Regulation of autophagy,GO: Biological Process,1.189433298534806
+137,0.00016,0.0206,Phospholipid biosynthetic process,GO: Biological Process,1.2862757346242941
+138,0.00017,0.0212,Positive regulation of macroautophagy,GO: Biological Process,1.8303356061613265
+211,0.00028,0.022,Infectious disease,Reactome,0.9884825629113849
+212,0.00029,0.022,SARS-CoV Infections,Reactome,1.1280732081394813
+139,0.00019,0.0237,Regulation of cell migration,GO: Biological Process,0.9946782743963595
+140,0.00021,0.0256,Tube development,GO: Biological Process,1.0004448029131796
+141,0.00021,0.0258,Regulation of type I interferon production,GO: Biological Process,1.6184595651195
+142,0.00021,0.0258,Cellular response to cytokine stimulus,GO: Biological Process,1.0330910805305247
+0,9.83e-05,0.0265,Autophagy - animal,KEGG,1.5508950556023455
+5,0.00011,0.0265,Shigellosis,KEGG,1.3381987918017884
+9,0.00068,0.0265,Prostate cancer,KEGG,1.5574544848620961
+8,0.00027,0.0265,MicroRNAs in cancer,KEGG,1.4088359697158541
+7,7.89e-05,0.0265,Proteoglycans in cancer,KEGG,1.3963385036694655
+6,0.00012,0.0265,Herpes simplex virus 1 infection,KEGG,1.1225312190345695
+1,0.00072,0.0265,Protein processing in endoplasmic reticulum,KEGG,1.342303696071119
+2,0.00019,0.0265,Signaling pathways regulating pluripotency of stem cells,KEGG,1.4778487163768483
+3,0.00062,0.0265,Insulin resistance,KEGG,1.523508664925284
+4,0.00034,0.0265,Pathogenic Escherichia coli infection,KEGG,1.3371764856201216
+143,0.00022,0.0271,Regulation of DNA-binding transcription factor activity,GO: Biological Process,1.1231311288336439
+145,0.00023,0.0271,Cellular response to chemical stimulus,GO: Biological Process,0.8785524565352595
+144,0.00023,0.0271,Regulation of biological quality,GO: Biological Process,0.8525536950428511
+214,0.0004,0.0278,TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation,Reactome,1.5947194056821605
+215,0.00039,0.0278,MyD88 cascade initiated on plasma membrane,Reactome,1.6244417745335842
+216,0.00041,0.0278,Antigen processing: Ubiquitination & Proteasome degradation,Reactome,1.1863028186163662
+213,0.00038,0.0278,Metabolism of proteins,Reactome,0.8994871862548761
+146,0.00024,0.028,Biosynthetic process,GO: Biological Process,0.881401712488762
+147,0.00025,0.0298,Positive regulation of cell communication,GO: Biological Process,0.9169558086934793
+148,0.00026,0.0306,Cellular response to growth factor stimulus,GO: Biological Process,1.1013566015282008
+149,0.00027,0.0307,Golgi vesicle transport,GO: Biological Process,1.2131518401216799
+150,0.00027,0.0312,ERAD pathway,GO: Biological Process,1.614919184820801
+153,0.00028,0.0319,Positive regulation of intracellular signal transduction,GO: Biological Process,0.9770922042304002
+151,0.00028,0.0319,Protein autoubiquitination,GO: Biological Process,1.7590238292978981
+152,0.00028,0.0319,Regulation of dendritic spine development,GO: Biological Process,1.9890500223599312
+217,0.00054,0.032,PI3K/AKT Signaling in Cancer,Reactome,1.5380182712579058
+154,0.0003,0.033,Regulation of I-kappaB kinase/NF-kappaB signaling,GO: Biological Process,1.246174197015419
+14,0.0013,0.0341,Central carbon metabolism in cancer,KEGG,1.6853995287503616
+13,0.0011,0.0341,Pathways in cancer,KEGG,1.041883345045678
+12,0.0011,0.0341,NOD-like receptor signaling pathway,KEGG,1.2948261224556117
+11,0.0013,0.0341,Gap junction,KEGG,1.5568371822521627
+10,0.0011,0.0341,TGF-beta signaling pathway,KEGG,1.5456511162765556
+155,0.00031,0.0346,Membrane organization,GO: Biological Process,1.0108829350378508
+156,0.00032,0.0351,Positive regulation of biosynthetic process,GO: Biological Process,0.8941162360127574
+157,0.00032,0.0351,Positive regulation of cellular biosynthetic process,GO: Biological Process,0.8958869527462838
+158,0.00032,0.0351,Organic substance biosynthetic process,GO: Biological Process,0.8803444178810899
+159,0.00032,0.0351,Regulation of cell motility,GO: Biological Process,0.9754474637320367
+160,0.00033,0.0352,Localization within membrane,GO: Biological Process,1.0710950276170523
+221,0.00065,0.0359,RAC2 GTPase cycle,Reactome,1.6167155354157077
+220,0.00063,0.0359,Signaling by WNT in cancer,Reactome,2.298272084659584
+219,0.00064,0.0359,Regulation of cholesterol biosynthesis by SREBP (SREBF),Reactome,1.8943333546285057
+218,0.00067,0.0359,Hemostasis,Reactome,1.0298682158606374
+222,0.00069,0.0361,Transcriptional Regulation by TP53,Reactome,1.125580345063198
+163,0.00036,0.0382,Response to oxygen levels,GO: Biological Process,1.179490579296994
+162,0.00036,0.0382,Negative regulation of nitrogen compound metabolic process,GO: Biological Process,0.8801594633552754
+161,0.00036,0.0382,Peptidyl-serine phosphorylation,GO: Biological Process,1.3225980286849284
+223,0.00076,0.0385,ISG15 antiviral mechanism,Reactome,1.6895405595335318
+165,0.00037,0.0386,Macroautophagy,GO: Biological Process,1.3300638447391635
+164,0.00037,0.0386,Vesicle organization,GO: Biological Process,1.1737266078446684
+15,0.0018,0.0386,AMPK signaling pathway,KEGG,1.3891777933942375
+224,0.00078,0.0388,Intra-Golgi and retrograde Golgi-to-ER traffic,Reactome,1.269957311125329
+167,0.00038,0.0392,Cellular response to oxygen levels,GO: Biological Process,1.4051716166734474
+166,0.00038,0.0392,Regulation of small molecule metabolic process,GO: Biological Process,1.1681722353542452
+168,0.00039,0.0394,Cellular response to leukemia inhibitory factor,GO: Biological Process,1.6244417745335842
+169,0.00039,0.0397,Peptidyl-amino acid modification,GO: Biological Process,0.984000936987585
+170,0.00041,0.0408,Protein phosphorylation,GO: Biological Process,1.0121556952549726
+171,0.00041,0.0409,Vasculature development,GO: Biological Process,1.0675844522289681
+172,0.00041,0.0409,Cellular response to fibroblast growth factor stimulus,GO: Biological Process,1.6744553759662686
+173,0.00041,0.0409,Organonitrogen compound biosynthetic process,GO: Biological Process,0.9344245247046441
+16,0.0021,0.0418,TNF signaling pathway,KEGG,1.4079504662779436
+174,0.00045,0.0435,Endomembrane system organization,GO: Biological Process,1.0569831036695285
+225,0.00091,0.044,MyD88:MAL(TIRAP) cascade initiated on plasma membrane,Reactome,1.4815772337805515
+229,0.00091,0.044,TRIF(TICAM1)-mediated TLR4 signaling,Reactome,1.5027163630466511
+226,0.001,0.044,Toll Like Receptor 3 (TLR3) Cascade,Reactome,1.5107308503162333
+228,0.001,0.044,Neddylation,Reactome,1.2054848620363217
+227,0.00095,0.044,Signaling by Interleukins,Reactome,1.069482903854835
+175,0.00046,0.0442,Positive regulation of signal transduction,GO: Biological Process,0.9189069502206144
+176,0.00047,0.0447,Regulation of cytoskeleton organization,GO: Biological Process,1.0592159700094694
+177,0.00048,0.0452,Regulation of pattern recognition receptor signaling pathway,GO: Biological Process,1.5528069084815395
+178,0.0005,0.0471,Cellular biosynthetic process,GO: Biological Process,0.8777933347336577
+179,0.00051,0.0481,Negative regulation of phosphorylation,GO: Biological Process,1.1324818967887804
+180,0.00053,0.0493,Protein dephosphorylation,GO: Biological Process,1.3239401622127402
+181,0.00053,0.0493,Protein localization to membrane,GO: Biological Process,1.087680415157576
+182,0.00054,0.0499,Anatomical structure formation involved in morphogenesis,GO: Biological Process,0.9719061054530581
+183,0.00054,0.0499,Circulatory system development,GO: Biological Process,0.9771269995156471
+230,0.0012,0.0499,Cellular responses to stress,Reactome,0.9833035585772464
