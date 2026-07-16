@@ -22,12 +22,7 @@ MicroRNAs are frequently dysregulated in cancer, yet how their tissue-specificit
 
 ---
 ![Inference](figures/mirna_expression_heatmap.png)
-![Inference](figures/mirna_boxplots_gtex_tcga_1.png)
-<p>
-  <img src="figures/stn_donut.png" width="53%">
-  <img src="figures/dysregulated_Tau_scatter.png" width="40%">
-</p>
- 
+![Inference](figures/mirna_boxplots_gtex_tcga_1.png) 
 ---
 
 ## Contact
