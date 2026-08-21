@@ -24,7 +24,7 @@ To run the seminar code smoothly, it is recommended to create a dedicated Conda 
 conda env create -f singlecell.yml
 
 # Activate the environment
-conda activate <environment_name>
+conda activate singlecell
 ```
 ## Data download links:
 5v1 scRNA-seq dataset: https://www.10xgenomics.com/datasets/human-glioblastoma-multiforme-5-v-1-targeted-neuroscience-panel-1-standard-4-0-0
